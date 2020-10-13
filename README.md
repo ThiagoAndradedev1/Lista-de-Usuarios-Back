@@ -26,7 +26,7 @@ POST api/people
 
 Adiciona um usuário
 
-### DELETE Game
+### DELETE User
 
 ```
 DELETE api/people/:id
@@ -34,7 +34,7 @@ DELETE api/people/:id
 
 Deleta um usuário
 
-### UPDATE Game
+### UPDATE User
 
 ```
 PUT api/people/:id
